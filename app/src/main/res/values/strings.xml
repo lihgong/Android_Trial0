@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Trial0</string>
+    <string name="str_height">Height</string>
+    <string name="str_weight">Weight</string>
+    <string name="str_button_calculate">Calculate BMI</string>
+    <string name="str_button_help">Help</string>
 </resources>
